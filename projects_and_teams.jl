@@ -300,7 +300,7 @@ projects = Project[
 			- Lepše
 			""",
 			resources = URL[
-				URL(""),
+				URL("https://www.coolmathgames.com/0-worlds-hardest-game"),
 				URL(""),
 			],
 			sequel_resources = Dict{String, Solution}(
