@@ -148,9 +148,9 @@ projects = Project[
 		),
 		solution = Solution(
 			repo        = URL("https://github.com/skostic14/LPRS2_Racing_Kings"),
-			youtube     = URL(""),
-			release_bit = URL(""),
-			doc         = URL(""),
+			youtube     = URL("https://www.youtube.com/watch?v=wm4ek4AhpNQ"),
+			release_bit = URL("https://github.com/skostic14/LPRS2_Racing_Kings/blob/master/LPRS2_Racing_Kings.bit"),
+			doc         = URL("https://github.com/skostic14/LPRS2_Racing_Kings/blob/master/LPRS2_Racing_Kings.docx"),
 		),
 	),
 	Project(
