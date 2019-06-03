@@ -596,10 +596,10 @@ projects = Project[
 			),
 		),
 		solution = Solution(
-			repo        = URL("https://github.com/X/Y"),
-			youtube     = URL(""),
-			release_bit = URL(""),
-			doc         = URL(""),
+			repo        = URL("https://github.com/LiliFakultet/TREX"),
+			youtube     = URL("https://www.youtube.com/watch?v=Ske-izDszqQ"),
+			release_bit = URL("https://github.com/LiliFakultet/TREX/blob/master/TREX.bit"),
+			doc         = URL("https://github.com/LiliFakultet/TREX/tree/master/docs"),
 		),
 	),
 	Project(
