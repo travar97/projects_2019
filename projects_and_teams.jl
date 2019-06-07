@@ -537,9 +537,9 @@ projects = Project[
 		),
 		solution = Solution(
 			repo        = URL("https://github.com/iamcarp/Donkey_Kong"),
-			youtube     = URL(""),
-			release_bit = URL(""),
-			doc         = URL(""),
+			youtube     = URL("https://www.youtube.com/watch?v=yY5VnPtMlKQ&feature=youtu.be"),
+			release_bit = URL("https://github.com/iamcarp/Donkey_Kong/blob/master/battle_city.bit"),
+			doc         = URL("https://github.com/iamcarp/Donkey_Kong/blob/master/DOKUMENTACIJA.pdf"),
 		),
 	),
 	Project(
