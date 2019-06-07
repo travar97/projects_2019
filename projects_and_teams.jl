@@ -301,7 +301,7 @@ projects = Project[
 			""",
 			resources = URL[
 				URL("https://www.coolmathgames.com/0-worlds-hardest-game"),
-				URL(""),
+				URL("http://dot2pic.com/"),
 			],
 			sequel_resources = Dict{String, Solution}(
 				"The World's Hardest Game" => Solution(
@@ -313,10 +313,10 @@ projects = Project[
 			),
 		),
 		solution = Solution(
-			repo        = URL("https://github.com/X/Y"),
-			youtube     = URL(""),
-			release_bit = URL(""),
-			doc         = URL(""),
+			repo        = URL("https://github.com/miodrag997/LPRS2-WorldsHardestGame"),
+			youtube     = URL("https://www.youtube.com/watch?v=QsyejM8fOtc"),
+			release_bit = URL("https://github.com/miodrag997/LPRS2-WorldsHardestGame/blob/master/LPRS2_Asteroids_game-master/WorldsHardestGame.bit"),
+			doc         = URL("https://github.com/miodrag997/LPRS2-WorldsHardestGame/blob/master/WorldsHardestGame.docx"),
 		),
 	),
 	Project(
