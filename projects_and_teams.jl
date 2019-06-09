@@ -430,9 +430,9 @@ projects = Project[
 		),
 		solution = Solution(
 			repo        = URL("https://github.com/PetarZecevic/CatchTheFlowers"),
-			youtube     = URL(""),
-			release_bit = URL(""),
-			doc         = URL(""),
+			youtube     = URL("https://www.youtube.com/watch?v=ZF1-MZJUNQA"),
+			release_bit = URL("https://github.com/PetarZecevic/CatchTheFlowers/blob/master/catch_the_flowers.bit"),
+			doc         = URL("https://github.com/PetarZecevic/CatchTheFlowers/blob/master/CatchTheFlowers.docx"),
 		),
 	),
 	Project(
