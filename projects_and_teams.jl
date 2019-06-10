@@ -693,10 +693,10 @@ projects = Project[
 			),
 		),
 		solution = Solution(
-			repo        = URL("https://github.com/X/Y"),
-			youtube     = URL(""),
-			release_bit = URL(""),
-			doc         = URL(""),
+			repo        = URL("https://github.com/rakicdarko00/Red_bouncing_ball"),
+			youtube     = URL("https://youtu.be/2jNC0gsQhwU"),
+			release_bit = URL("https://github.com/rakicdarko00/Red_bouncing_ball/blob/master/Red_Bouncing_ball.bit"),
+			doc         = URL("https://github.com/rakicdarko00/Red_bouncing_ball/blob/master/Red%20Bouncing%20ball.doc"),
 		),
 	),
 	Project(
