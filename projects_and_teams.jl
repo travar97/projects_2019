@@ -489,13 +489,13 @@ projects = Project[
 			],
 			sequel_resources = Dict{String, Solution}(
 				"Potapanje brodića" => Solution(
-					repo        = URL("https://github.com/uros96/potapanjeBrodica"),
+					repo        = URL("https://github.com/VladimirOstojic/potapanjeBrodica"),
 					youtube     = URL("https://www.youtube.com/watch?v=carpYddvtfQ"),
 					release_bit = URL[
-						URL("https://github.com/uros96/potapanjeBrodica/blob/master/potapanje_brodica_master.bit"),
-						URL("https://github.com/uros96/potapanjeBrodica/blob/master/potapanje_brodica_slave.bit"),
+						URL("https://github.com/VladimirOstojic/potapanjeBrodica/blob/master/demos/2018/potapanje_brodica_master.bit"),
+						URL("https://github.com/VladimirOstojic/potapanjeBrodica/blob/master/demos/2018/potapanje_brodica_slave.bit"),
 					],
-					doc         = URL("https://github.com/uros96/potapanjeBrodica/blob/master/LPRS2-Potapanje_brodica.pdf"),
+					doc         = URL("https://github.com/VladimirOstojic/potapanjeBrodica/blob/master/doc/Potapanje_brodica.docx"),
 				),
 			),
 		),
