@@ -1969,10 +1969,10 @@ projects = Project[
 			),
 		),
 		solution = Solution(
-			repo        = URL("https://github.com/X/Y"),
-			youtube     = URL(""),
-			release_bit = URL(""),
-			doc         = URL(""),
+			repo        = URL("https://github.com/OcaMoca/Crossy_road.git"),
+			youtube     = URL("https://www.youtube.com/watch?v=e0ZP028mnxg"),
+			release_bit = URL("https://github.com/OcaMoca/Crossy_road/tree/master/battle_city_design/demo"),
+			doc         = URL("https://github.com/OcaMoca/Crossy_road/blob/master/CROSSY%20ROAD.docx"),
 		),
 	),
 	Project(
