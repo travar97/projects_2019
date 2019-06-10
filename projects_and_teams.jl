@@ -758,10 +758,10 @@ projects = Project[
 			),
 		),
 		solution = Solution(
-			repo        = URL("https://github.com/X/Y"),
-			youtube     = URL(""),
-			release_bit = URL(""),
-			doc         = URL(""),
+			repo        = URL("https://github.com/MMozetic/duck_hunt"),
+			youtube     = URL("https://www.youtube.com/watch?v=L6dIXo3JxiI"),
+			release_bit = URL("https://github.com/MMozetic/duck_hunt/blob/master/battle_city_design/duck_hunt.bit"),
+			doc         = URL("https://github.com/MMozetic/duck_hunt/blob/master/Izvestaj.docx"),
 		),
 	),
 	Project(
