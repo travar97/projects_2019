@@ -1126,10 +1126,10 @@ projects = Project[
 			),
 		),
 		solution = Solution(
-			repo        = URL("https://github.com/X/Y"),
-			youtube     = URL(""),
-			release_bit = URL(""),
-			doc         = URL(""),
+			repo        = URL("https://github.com/MilenkoMaksic/Super_Mario"),
+			youtube     = URL("https://www.youtube.com/watch?v=qVD7bmE6ego"),
+			release_bit = URL("https://github.com/MilenkoMaksic/Super_Mario/blob/master/battle_city_design/demos/download.bit"),
+			doc         = URL("https://github.com/MilenkoMaksic/Super_Mario/blob/master/Dokumentacija2019.docx"),
 		),
 	),
 	Project(
