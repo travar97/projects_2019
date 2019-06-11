@@ -1067,10 +1067,10 @@ projects = Project[
 			),
 		),
 		solution = Solution(
-			repo        = URL("https://github.com/X/Y"),
-			youtube     = URL(""),
-			release_bit = URL(""),
-			doc         = URL(""),
+			repo        = URL("https://github.com/travar97/Tenkici_ima_da_lete_2.0"),
+			youtube     = URL("https://www.youtube.com/watch?v=QFIEypPpc1A"),
+			release_bit = URL("https://github.com/travar97/Tenkici_ima_da_lete_2.0/blob/master/demos/download.bit"),
+			doc         = URL("https://github.com/travar97/Tenkici_ima_da_lete_2.0/blob/master/Tenkici-dokumentacija.doc"),
 		),
 	),
 	Project(
